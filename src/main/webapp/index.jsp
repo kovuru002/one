@@ -34,7 +34,7 @@
             margin-top: 20px;
         }
         nav a {
-            color: red;
+            color: green;
             text-decoration: none;
             margin: 0 15px;
             font-size: 1.1em;
