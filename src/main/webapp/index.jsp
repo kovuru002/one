@@ -138,7 +138,7 @@
         }
         .contact button {
             background: #38bdf8;
-            color: white;
+            color: green;
             border: none;
             cursor: pointer;
             transition: background 0.3s;
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Sreeka, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm Nagendra  Kovuru, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
     <section id="skills" class="skills">
