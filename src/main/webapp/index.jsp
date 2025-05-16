@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Engineer Portfolio Nagendra</title>
+    <title>DevOps Engineer Portfolio</title>
     <style>
         /* General Styles */
         body {
@@ -34,7 +34,7 @@
             margin-top: 20px;
         }
         nav a {
-            color: white;
+            color: red;
             text-decoration: none;
             margin: 0 15px;
             font-size: 1.1em;
@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Sreeka - DevOps Engineer</h1>
+        <h1>Nagendra - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
